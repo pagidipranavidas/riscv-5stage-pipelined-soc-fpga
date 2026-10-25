@@ -21,7 +21,6 @@ The project report describes a Basys-3 Artix-7 FPGA implementation using AMD/Xil
 ├── testbench/           # Supplied simulation testbenches
 ├── constraints/         # Basys-3 XDC constraints
 ├── images/              # Simulation, schematic, area, delay and power images
-└── video/               # Supplied FPGA output/demo video
 ```
 
 ## Key Processor Components
